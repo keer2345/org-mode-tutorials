@@ -9,8 +9,8 @@ Every headline starts with one or more =*=
 Visibility of the headline hierarchy:
 - Local visibility cycling with =Tab=
 - Global visibility cycling with =Shift= =Tab=
-- Increase or decrease level with =Alt= =->= or =Alt= =<-=
+- Increase or decrease level with =Alt= =→= or =Alt= =←=
 - Move up/down within a level with =Alt= =↑= or =Alt= =↓=
 
 Move a headline under another top level headline:
-- Cursor on the headline and then =Ctrl= =C= & =Ctrl= =Ctrl= =w=
+- Cursor on the headline and then =Ctrl= =C= & =Ctrl= =w=
